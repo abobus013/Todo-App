@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_search">Search...</string>
+    <string name="tv_task_manager">Task Manager</string>
+    <string name="tv_add">add</string>
+    <string name="tv_enter_body">enter body</string>
+    <string name="tv_enter_title">enter title</string>
+    <string name="tv_save">save</string>
+    <string name="tv_edit">edit</string>
+</resources>
